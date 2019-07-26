@@ -61,7 +61,7 @@ h1{
     padding-top: 30px;
     height: 70px;
     z-index: 3;
-    position: sticky;
+    position: fixed;
     top:0px;
             background-color: #e78282f2;
     width:100%;
