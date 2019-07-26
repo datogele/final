@@ -611,6 +611,7 @@ body{
 .mans-background{
     margin-left:unset;
         width: 310px;
+        margin-bottom: 20px;
 }
 .man-img{
     width: 290px;
